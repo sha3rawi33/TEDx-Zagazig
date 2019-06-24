@@ -1,2 +1,2 @@
-# TEDx-STEM
-TEDx Website for STEM 6th of October.
+# TEDx Zagazig
+TEDxZagazig's official website for 2019/2020
